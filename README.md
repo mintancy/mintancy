@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on system security with a focus on Cortex-M
+- 🔭 I’m currently working on system security with a focus on Arm Cortex-M
 - 📫 How to reach me: xitan@buffalo.com 
 - 😄 Check my personal website: https://mintancy.github.io/
 
