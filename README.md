@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xitan@buffalo.com 
 - 😄 Check my personal website: https://mintancy.github.io/
 
-### Stats
+<!--### Stats
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=mintancy&count_private=true)  -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mintancy&count_private=true)  -->
