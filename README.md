@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on system security with a focus on Arm Cortex-M
-- 📫 How to reach me: xitan@buffalo.com 
+- 📫 How to reach me: xtan4@uccs.edu 
 - 😄 Check my personal website: https://mintancy.github.io/
 
 <!--### Stats
